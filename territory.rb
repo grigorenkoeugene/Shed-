@@ -37,6 +37,7 @@ def add_shed(shed)
       puts "Срай #{shed.inspect} уже есть в этом месте" 
     return
   end
+  
 end
 
         @sheds << shed
